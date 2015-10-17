@@ -1,4 +1,4 @@
-# WalmartBot
+# WalmartBot ![Walmart Logo] (https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/New_Walmart_Logo.svg/901px-New_Walmart_Logo.svg.png)
 <h3>Walmart Challenge Android Bot</h3>
 
 <h3>Challenge : </h3>
